@@ -10,7 +10,7 @@ This project is a fun, romantic webpage created to ask someone special:
 - HTML
 
 ## 🚀 Live Demo
-👉 https://har19h.github.io/will-you-be-my-valentine/
+👉 https://har19h.github.io/love-in-html/
 
 ## 💌 Author
 Made with 💖 by me
